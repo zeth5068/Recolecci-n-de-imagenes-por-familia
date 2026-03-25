@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 # 🐝 Pollinator Dataset Builder (iNaturalist)
 
 Script en Python para la **recolección masiva de imágenes de insectos polinizadores** desde la API de iNaturalist, organizadas automáticamente por **familia y género**, e incluyendo **metadata estructurada**.
